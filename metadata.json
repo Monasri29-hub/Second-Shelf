@@ -1,0 +1,6 @@
+{
+  "name": "SecondSelf — AI Critical Thinking Challenger",
+  "description": "A critical cognitive companion that rigorously evaluates ideas, decisions, and plans by exposing hidden assumptions, missing evidence, counterarguments, failure scenarios, and an interactive Assumption Map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
